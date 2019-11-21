@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgba(255, 255, 255, 0.5);
+}
+.box{
+    width: 350px;
+    height: 280px;
+    background: white;
+    margin: 80px auto;
+    box-shadow: 3px 3px 5px 3px #888888;
+    border-radius: 5px;
+}
+
+.form{
+    text-align: center;
+}
+
+.form h3{
+    padding-top: 40px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-weight:550;
+    margin-bottom: 4px;
+    font-weight: 10px ;
+
+}
+.inputbox {
+    padding: 5px;
+    padding-left: 20px;
+    margin: 15px;
+    width: 280px;
+    height: 20px;
+    background: rgb(248, 245, 245);
+    border: none;
+}
+
+.button{
+    padding: 10px;
+    background:rgb(23, 139, 23);
+    border: none;
+    color: white;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
